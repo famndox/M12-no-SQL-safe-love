@@ -2,7 +2,7 @@
 
 Module 12 Challenge
 
-## Story
+## First, A Story
 So, I was having a terrible time trying to find a business within the 
 desired lat/long range in the analysis notebook; tried parsing the 
 sections out to troubleshoot and everything. Going back through the 
